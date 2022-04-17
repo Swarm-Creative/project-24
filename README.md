@@ -6,7 +6,7 @@ A Unreal Engine 5 powered arcade shooter inspired by Wordle and Destiny
 
 ## Elevator Pitch
 
-_You have 24 hours to post the best score possible in this stylish arcade wave based shooter. Every day rotating modifers change up enemy stats and your advantages._
+_You have 24 hours to post the best score possible in this stylish arcade wave based shooter. Every day rotating modifers change up enemy stats and your advantages/disadvantages._
 
 ## Development Stack
 
