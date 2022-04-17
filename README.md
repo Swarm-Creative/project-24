@@ -14,6 +14,10 @@ _You have 24 hours to post the best score possible in this stylish arcade wave b
 - [Quixel Mixer](https://quixel.com/mixer)
 - [Blender](https://www.blender.org/)
 
+## Target Platforms
+
+- Mobile (iOS & Android)
+
 ## Follow Swarm Creative on Social Media
 
 - [Facebook](https://www.facebook.com/swarmcreative)
@@ -24,3 +28,5 @@ _You have 24 hours to post the best score possible in this stylish arcade wave b
 
 - Game Designer / Lead Programmer / Project Lead
   - [Simon Norman](https://twitter.com/zhymonnorman)
+- Gameplay Programmer / Tech Artist
+  - [Amber McCausley](https://www.linkedin.com/in/amber-mccausley-07a1b473/)
