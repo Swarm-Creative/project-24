@@ -13,7 +13,7 @@ _You have 24 hours to post the best score possible in this stylish arcade wave b
 - [Unreal Engine 5](https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available-in-early-access)
 - [Quixel Mixer](https://quixel.com/mixer)
 - [Blender](https://www.blender.org/)
-- [NextJS (API Routes w/ GraphQL](https://lyonwj.com/blog/graphql-server-next-js-neo4j-aura-vercel)
+- [NextJS (API Routes w/ GraphQL)](https://lyonwj.com/blog/graphql-server-next-js-neo4j-aura-vercel)
 
 
 ## Target Platforms
